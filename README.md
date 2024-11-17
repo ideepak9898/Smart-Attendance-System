@@ -11,8 +11,13 @@ Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
    2. `source your_env_name/bin/activate`  # For Unix-based systems
    3. `your_env_name\Scripts\activate`  # For Windows
 5. Install all the packages
-   - pip install opencv-contrib-python
-   - pip install numpy pandas Pillow pytest-shutil python-csv yagmail
+   - `pip install opencv-contrib-python`
+   - `pip install numpy`
+   - `pip install pandas`
+   - `pip install Pillow`
+   - `pip install pytest-shutil`
+   - `pip install python-csv`
+   - `pip install yagmail`
 7. Setup the mail information
 8. Then Run the project through the terminal of the IDE using `python main.py`
 
