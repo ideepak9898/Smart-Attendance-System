@@ -7,7 +7,7 @@ Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
 1. First clone the project using `git clone https://github.com/ideepak9898/Smart-Attendance-System.git`
 2. Move to the project folder: `cd Smart-Attendance-System`
 3. Create an python enviroment
-   1. `python -m venv your_env_name`  #Replace 'env' with your desired virtual environment name
+   1. `python -m venv your_env_name`  #Replace 'your_env_name' with your desired virtual environment name
    2. `source your_env_name/bin/activate`  # For Unix-based systems
    3. `your_env_name\Scripts\activate`  # For Windows
 5. Install all the packages
