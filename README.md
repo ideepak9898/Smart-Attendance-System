@@ -1,4 +1,4 @@
-# Smart-Attendance-System
+# Smart-Attendance-System using openCV
 
 Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
 
