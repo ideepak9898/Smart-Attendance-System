@@ -19,5 +19,5 @@ Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
    - `pip install python-csv`
    - `pip install yagmail`
 7. Setup the mail information
-8. Then Run the project through the terminal of the IDE using `python main.py`
+8. Then Run the project through the terminal of the IDE using `python3 main.py`
 
