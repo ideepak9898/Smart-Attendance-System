@@ -8,8 +8,9 @@ Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
 2. Move to the project folder: `cd Smart-Attendance-System`
 3. Create an python enviroment
    1. `python -m venv your_env_name`  #Replace 'your_env_name' with your desired virtual environment name
-   2. `source your_env_name/bin/activate`  # For Unix-based systems
-   3. `your_env_name\Scripts\activate`  # For Windows
+4. To activate the virtual environment
+   1. `source your_env_name/bin/activate`  # For Unix-based systems
+   2. `your_env_name\Scripts\activate`  # For Windows
 5. Install all the packages
    - `pip install opencv-contrib-python`
    - `pip install numpy`
@@ -18,6 +19,6 @@ Libraries Used: Numpy, Pandas, Haar Cascade, Face_Recognition, OpenCV
    - `pip install pytest-shutil`
    - `pip install python-csv`
    - `pip install yagmail`
-7. Setup the mail information
-8. Then Run the project through the terminal of the IDE using `python3 main.py`
+6. Setup the mail information
+7. Then Run the project through the terminal of the IDE using `python3 main.py`
 
